@@ -85,6 +85,18 @@ h1 {
     margin: 0 5px;
 }
 
+.email p {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.email b {
+    color: #0af;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
 footer {
     background-color: #111;
     text-align: center;
